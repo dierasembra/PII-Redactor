@@ -1,0 +1,7 @@
+Hello Alice,
+
+Please contact me at alice@example.com or +1-202-555-0173. My backup is (202) 555 0123.
+My old credit card was 4111 1111 1111 1111 and my server is at 192.168.1.45.
+
+Regards,
+Alice
